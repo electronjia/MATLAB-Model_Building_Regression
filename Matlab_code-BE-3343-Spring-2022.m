@@ -1,7 +1,7 @@
-% Mahri Kadyrova
+% MK
 % BE 3343
-% Date: 05/10/2022
-% Student ID: 1001869500
+% Date: Oct, 2022
+% Student ID:
 %Single Student Project
 % Chapter questions
 %%
